@@ -1,0 +1,14 @@
+C:\wxz\git\GeoTransform\GeoTransform\bin\Debug\GeoTransform.exe.config
+C:\wxz\git\GeoTransform\GeoTransform\bin\Debug\GeoTransform.exe
+C:\wxz\git\GeoTransform\GeoTransform\bin\Debug\GeoTransform.pdb
+C:\wxz\git\GeoTransform\GeoTransform\bin\Debug\gdalconst_csharp.dll
+C:\wxz\git\GeoTransform\GeoTransform\bin\Debug\gdal_csharp.dll
+C:\wxz\git\GeoTransform\GeoTransform\bin\Debug\ogr_csharp.dll
+C:\wxz\git\GeoTransform\GeoTransform\bin\Debug\osr_csharp.dll
+C:\wxz\git\GeoTransform\GeoTransform\obj\Debug\GeoTransform.csprojAssemblyReference.cache
+C:\wxz\git\GeoTransform\GeoTransform\obj\Debug\GeoTransform.Properties.Resources.resources
+C:\wxz\git\GeoTransform\GeoTransform\obj\Debug\GeoTransform.csproj.GenerateResource.cache
+C:\wxz\git\GeoTransform\GeoTransform\obj\Debug\GeoTransform.csproj.CopyComplete
+C:\wxz\git\GeoTransform\GeoTransform\obj\Debug\GeoTransform.exe
+C:\wxz\git\GeoTransform\GeoTransform\obj\Debug\GeoTransform.pdb
+C:\wxz\git\GeoTransform\GeoTransform\obj\Debug\GeoTransform.FormMain.resources
